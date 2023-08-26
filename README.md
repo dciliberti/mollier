@@ -1,4 +1,6 @@
-# mollier
+[![View Mollier chart on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://it.mathworks.com/matlabcentral/fileexchange/134312-mollier-chart)
+
+# Mollier chart
 Draws a Mollier chart in MATLAB and calculate drying rate for solid materials.
 
 To get an example chart it is sufficient to call the function `mollier` without arguments.
